@@ -19,7 +19,7 @@ RCS for CS:GO
 ---
 ### ⚒How to start up
 
-Firstly, you need to download [AutoHotkey](https://www.autohotkey.com/download/ahk-install.exe). Secondly, [download release](url). 
+Firstly, you need to download [AutoHotkey](https://www.autohotkey.com/download/ahk-install.exe). Secondly, [download release](https://github.com/Nick-Vinesmoke/RCS-csgo/releases/tag/RCS). 
 
 Then, in RCS.ahk change value of variables: `sens:= ;your sensitivity`, `zoomsens:=  ;your sensitivity in zoom`. Finaly, run RCS.ahk as admin.
 Also, you can change keybinds.
