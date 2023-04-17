@@ -35,7 +35,7 @@ Firstly, run RCS.ahk as admin. Then, start CS:GO and when you take weapon klick 
 
 ---
 ### 📲Contacts
-open [issues](https://github.com/Nick-Vinesmoke/The-Murk-stealer/issues), [pull requests](https://github.com/Nick-Vinesmoke/The-Murk-stealer/pulls) or [discussions](https://github.com/Nick-Vinesmoke/The-Murk-stealer/discussions)
+open [issues](https://github.com/Nick-Vinesmoke/Nick-Vinesmoke/issues), [pull requests](https://github.com/Nick-Vinesmoke/Nick-Vinesmoke/pulls) or [discussions](https://github.com/Nick-Vinesmoke/The-Murk-stealer/discussions)
 
 or 
 
