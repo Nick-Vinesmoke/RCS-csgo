@@ -5,8 +5,8 @@
 
 
 ;Settings
-sens:=;your sensitivity
-zoomsens:=;your sensitivity in zoom
+sens:=  ;your sensitivity
+zoomsens:=  ;your sensitivity in zoom
 
 ;Key binds
 key_AK:="Numpad0"
