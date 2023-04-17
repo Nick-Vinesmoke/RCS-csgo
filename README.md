@@ -2,6 +2,7 @@
 RCS for CS:GO
 ---
 💉External undetected RCS for CS:GO. Supported: matchmaking, faceit, fust cup, ESL, etc
+
 ⭐Please, star this repo if it was helpful⭐
 
 ---
